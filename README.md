@@ -1,11 +1,13 @@
-![image](https://github.com/user-attachments/assets/b34b43aa-d64a-4d66-b509-f9b6df7ef88f)
+<img src="https://github.com/MaddRussian/MaddRussian/blob/main/pexels-photo-572897.jpeg">
 
-
-            <i class="devicon-rails-plain colored"></i>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=120&color=F3F3E0&duration=4000&lines=Welcome!+🔭;+I'm+Will+🛸;" />
+</h1>
+                
+### A web developer based in Tokyo.           
+   
             
-<p>name: "Will"</p>
-<p>hometown: "New Orleans"</p>
-<p>located_in: "Tokyo"</p>
+            
 
 
 <!---
