@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=120&color=F3F3E0&duration=4000&lines=Welcome!+🔭;+I'm+Will+🛸;" />
 </h1>
                 
-### A web developer based in Tokyo. Embracing the unknown.
+### A web developer based in Tokyo. 
+### Embracing the unknown.
    
             
             
