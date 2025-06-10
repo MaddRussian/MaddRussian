@@ -8,13 +8,6 @@
 ### A web developer based in Tokyo. 
 ### Embracing the unknown.
 
-<br>
-
-💻 Code
-
-☕️ Coffee
-
-🎧 Music
 
 
             
